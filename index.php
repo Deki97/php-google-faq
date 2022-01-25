@@ -143,14 +143,10 @@
     <main>
         <div class="container">
             <?php foreach($faq as $question => $single_faq) { ?>
-                <?php var_dump($question); ?> 
-                <?php var_dump($single_faq); ?> 
-
-                <?php foreach($single_faq as $single_question) { ?>
-                    <?php var_dump($single_question); ?>
-
-                    <p><?php echo $single_question['domanda']; ?></p>
-                <?php } ?>
+                
+                <h2><?php echo $single_faq['domanda']; ?></h2>
+                <p><?php  echo $single_faq['risposta'];?></p>
+            
             <?php } ?>
         </div>
     </main>
