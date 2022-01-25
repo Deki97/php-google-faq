@@ -50,7 +50,37 @@
         </div>
 
         <div class="header-bottom">
+            <div class="menu">
+                <div>
+                    <a href="#">
+                        Introduzione
+                    </a>
+                </div>
 
+                <div>
+                    <a href="#">
+                        Norme sulla privacy
+                    </a>
+                </div>
+
+                <div>
+                    <a href="#">
+                        Termini di servizio
+                    </a>
+                </div>
+
+                <div>
+                    <a href="#">
+                        Tecnologie
+                    </a>
+                </div>
+
+                <div>
+                    <a class="blue" href="#">
+                        Domande frequenti
+                    </a>
+                </div>
+            </div>
         </div>
     </header>
 
