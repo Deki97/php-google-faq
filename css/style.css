@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Header */
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+}
+
+.header-top-left {
+    display: flex;
+}
+
+.privacy-terms {
+    font-size: 22px;
+    margin-left: 5px;
+    margin-top: -4px;
+    color: grey;
+}
+
+.header-top-right {
+    display: flex;
+    align-items: center;
+}
+
+.grid {
+    font-size: 20px;
+}
+
+.user-icon {
+    font-size: 20px;
+    background-color: #004d40;
+    color: white;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+/* Main */
+
+/* Footer */
