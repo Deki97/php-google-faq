@@ -157,19 +157,19 @@
             <div class="footer-wrapper">
                 <div class="footer-left">
                     <div>
-                        Google
+                        <a href="">Google</a>
                     </div>
 
                     <div>
-                        Tutto su Google
+                        <a href="">Tutto su Google</a>
                     </div>
 
                     <div>
-                        Privacy
+                        <a href="">Privacy</a>
                     </div>
                     
                     <div>
-                        Termini
+                        <a href="">Termini</a>
                     </div>
                 </div>
 
